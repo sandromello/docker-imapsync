@@ -1,4 +1,4 @@
-# imapsync
+# Docker imapsync
 
 From [imapsync](https://github.com/imapsync/imapsync) project.
 This image consists in correcting the [oauth2](https://developers.google.com/gmail/oauth_overview)  method authentication, it's uses a fork correcting the [xoauth2 implementation](https://github.com/imapsync/imapsync/pull/25)
