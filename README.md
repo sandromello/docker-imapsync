@@ -9,7 +9,7 @@ For authenticating using xoauth2 follow the steps bellow:
 
 - Create a **Google Service account** in [google console](https://console.developer.google.com)
 - Create a new project
-- Add a new [service account](https://) in credentials section (p12 type)
+- Add a new [service account](https://developers.google.com/identity/protocols/OAuth2ServiceAccount#creatinganaccount) in credentials section (p12 type)
 - Access admin.google.com
 - In Security -> Advanced -> Manage Access To Client API. Grant permissions to the following app scope:
 	- https://mail.google.com/ 
